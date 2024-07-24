@@ -1,0 +1,21 @@
+{
+
+  "name": "timo/createhtmltable",
+  "description": "a small function to create an html table with arrays u need",
+  "type": "library",
+  "require": {
+    "php": ">=7.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "htmlTable\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Timo"
+    }
+  ],
+  "license": "MIT"
+
+}
