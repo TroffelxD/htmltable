@@ -16,6 +16,7 @@
       "name": "Timo"
     }
   ],
-  "license": "MIT"
-
+  "license": "MIT",
+  "version": "1.0.0",
+  "minimum-stability": "stable"
 }

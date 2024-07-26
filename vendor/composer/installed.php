@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'timo/createhtmltable',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => '9cd3900f268ce74291128bd39b8b8debe05a90f7',
+        'pretty_version' => '1.0.0',
+        'version' => '1.0.0.0',
+        'reference' => null,
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'timo/createhtmltable' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => '9cd3900f268ce74291128bd39b8b8debe05a90f7',
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'reference' => null,
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
