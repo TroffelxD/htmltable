@@ -4,7 +4,7 @@
   "description": "a small function to create an html table with arrays u need",
   "type": "library",
   "require": {
-    "php": ">=7.2"
+    "php": ">=7.2 || ^8.0"
   },
   "autoload": {
     "psr-4": {
@@ -16,7 +16,6 @@
       "name": "Timo"
     }
   ],
-  "license": "MIT",
-  "version": "1.0.0",
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "license": "MIT"
 }
